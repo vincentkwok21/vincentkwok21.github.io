@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://vincentkwok21.github.io", title: "About me"}
   - {file: "blog.md", title: "Blog"}
-  - {title: "Resume", file: "resume.pdf"}
+  - {title: "Resume", file: "Vincent Kwok.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:vkwokwork@gmail.com"}
