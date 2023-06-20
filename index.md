@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "About me"
 ---
 
 YOYOYO this is the about me page
