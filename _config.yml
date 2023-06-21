@@ -14,7 +14,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Website icon
-avatar: /assets/crabavatar.png
+avatar: ![Avatar](/assets/crabavatar.png)
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
