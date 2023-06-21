@@ -16,8 +16,8 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://vincentkwok21.github.io", title: "About me"}
-  - {file: "blog.md", title: "Blog"}
+  - {title: "About me", url: "https://vincentkwok21.github.io"}
+  - {title: "Blog", file: "blog.md"}
   - {title: "Resume", file: "Vincent Kwok.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
