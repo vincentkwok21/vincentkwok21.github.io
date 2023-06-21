@@ -20,7 +20,7 @@ avatar: "/assets/crabavatar.png"
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About me", url: "https://vincentkwok21.github.io"}
   - {title: "Blog", file: "blog.md"}
-  - {title: "Resume", file: "Vincent Kwok.pdf"}
+  - {title: "Resume", file: "/assets/Vincent Kwok.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:vkwokwork@gmail.com"}
