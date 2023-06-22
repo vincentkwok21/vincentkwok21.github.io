@@ -3,7 +3,7 @@ layout: page
 title: "Gallery"
 ---
 
-This is my small gallery of images taken by me this [age is currently a work in progress!
+This is my small gallery of images taken by me this page is currently a work in progress!
 
 ![IMG_20221215_155337](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/60ab3f55-5062-4c37-a862-ec3e2eb1be1a)
 ![IMG_20230110_165723](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/2cb1dbd2-b5c2-4261-92d7-7567ce6d43f5)
