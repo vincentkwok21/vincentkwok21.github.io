@@ -7,6 +7,7 @@ This is my small gallery of images taken by me this page is currently a work in 
 
 ![IMG_20221215_155337](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/60ab3f55-5062-4c37-a862-ec3e2eb1be1a)
 ![IMG_20230110_165723](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/2cb1dbd2-b5c2-4261-92d7-7567ce6d43f5)
+![IMG_20200522_123415](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/02f3327d-84d6-4bea-b028-602bbf24a645)
 ![IMG_20230401_154524](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/723ac4c5-6f3e-4842-8269-ae36f6ed726c)
 ![IMG_20230401_135341](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b7c34954-8b57-4217-84cf-11fe2fcbd596)
 ![IMG_20230320_102946](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/3ee8711b-58ce-45aa-a94b-bf666ed12f3c)
@@ -19,7 +20,6 @@ This is my small gallery of images taken by me this page is currently a work in 
 ![IMG_20230320_100203](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/3c58d687-63a9-4aeb-9586-6b21a1ad38eb)
 ![IMG_20230320_100942](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/760bc823-ccd2-4e43-a3d8-c664605608bb)
 ![IMG_20230320_104456](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/551b8fc3-8641-4c8a-bffc-25160c86e081)
-![IMG_20230320_104526](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/a00f19c8-c626-4e19-844d-c2159c3d29b7)
 ![IMG_20230422_144640](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/8a53a7ed-d284-4b43-8a94-0fca9f609028)
 
 
