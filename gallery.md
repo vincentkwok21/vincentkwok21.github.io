@@ -8,7 +8,9 @@ This is my small gallery of images taken by me, I have them sorted by subject be
 
 <details><summary>Travelling</summary>
 
+
 [hi](https://hello.ca)
+
 
 </details>
 
