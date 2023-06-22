@@ -9,6 +9,7 @@ One of my greatest joys is working on personal projects, and that's precisely wh
 
 ![Sideways crab jump (1)](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/fd8e3b9d-f573-4f2a-9b21-b74a0a298389)
 ![IMG_3628 (2)](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b6ce805b-c705-40fd-9891-e71a4b42d223)
+![IMG_4326](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/cab55d89-a709-4cf4-b074-2f60dd64b365)
 
 
 
