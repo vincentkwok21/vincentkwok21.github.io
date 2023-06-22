@@ -5,7 +5,9 @@ title: "Gallery"
 
 This is my small gallery of images taken by me, I have them sorted by subject below, just click on the drop downs!
 
+
 <details><summary>Flowers</summary>
+
 
 ![IMG_20200905_161616](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/a759369e-d50c-4937-a6ce-1ddb982f89da)
 ![IMG_20200905_161954](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b167de76-cf3a-4866-957d-115703ab5b49)
@@ -21,7 +23,9 @@ This is my small gallery of images taken by me, I have them sorted by subject be
 ![IMG_20230611_163331](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/843603b6-4a6d-4df5-b641-643dbabd8188)
 ![IMG_20230610_173214](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/a3e8908d-4de9-465f-b381-1bf0db669b36)
 
+
 </details>
+
 
 <details><summary>Travelling</summary>
 
