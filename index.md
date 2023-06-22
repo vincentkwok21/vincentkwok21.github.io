@@ -20,6 +20,6 @@ When I'm not engrossed in the world of engineering, you'll often find me engagin
 
 Gaming is another passion of mine. It serves as an outlet for creativity, strategy, and relaxation. Whether it's exploring immersive virtual worlds or competing with friends, gaming provides a unique blend of entertainment and mental stimulation.
 
-Beyond the realm of technology and physical activities, I find immense fascination in the natural world. Insects and flowers, with their vibrant colors, intricate structures, and remarkable adaptations, have captured my attention since I was young. Their beauty and diversity inspire me and remind me of the intricate designs that exist in both nature and engineering. You can find some images I have taken in the gallery tab.
+Beyond the realm of technology and physical activities, I find immense fascination in the natural world. Insects and flowers, with their vibrant colors, intricate structures, and remarkable adaptations, have captured my attention since I was young. Their beauty and diversity inspire me and remind me of the intricate designs that exist in both nature and engineering. You can find some images I have taken of my adventures and such in the gallary tab!
 
 I invite you to explore this website, where you'll find a blend of my engineering projects, insights into my personal interests, and perhaps even a glimpse into the wonders of the natural world. Thank you for joining me on this exciting journey, and I hope you find something here that sparks your curiosity and fuels your own passions.
