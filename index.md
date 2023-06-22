@@ -11,6 +11,8 @@ One of my greatest joys is working on personal projects, and that's precisely wh
 ![IMG_3628 (2)](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b6ce805b-c705-40fd-9891-e71a4b42d223)
 ![IMG_4326 (1)](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/fff90bc5-88c6-4822-a831-028f6773a410)
 
+![Uploading Banner About me.png…]()
+
 
 
 
