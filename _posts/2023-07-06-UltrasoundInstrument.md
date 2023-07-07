@@ -11,7 +11,9 @@ I decided to go with a HC-SR04 Ultrasonic Sensor. The HC-SR04 sensor measures di
 and a reciever (called the trig and echo pin/sensor respectively). This sensor uses the concept of the speed of sound being a constant, with this assumption,
  a sound wave is emitted from the trig emitter and received by the echo receiver. By using some basic math involving the speed of sound and the time 
 between ultra sound emission and receiving, it is possible to calculate the distance of an object from the sensor.
-![IMG_20230706_174402](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/e7435a6e-0a1a-46b9-ad3a-530fa3633e4c)
+
+![IMG_20230706_174925](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/0ec86593-d4f9-491a-ab23-5ff877f84324)
+
 
 
 I then began to wire the sensor, having it print the distance readings. I did some testing and the sensor fails to measure the 
