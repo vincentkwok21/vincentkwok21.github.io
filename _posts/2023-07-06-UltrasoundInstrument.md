@@ -20,7 +20,7 @@ as long as the object used to reflect the ultrasound is reasonable, everything s
 
 After this sensor is functioning properly, I had to add a passive buzzer. Passive buzzers require square waves in order to function. The voltage must be rapidly alternating between 
 a high and low voltage in order to vibrate a magnet inside the speaker. When this magnet vibrates fast enough its sound can be measured in terms of musical notes. At around 262Hz, the corresponding note 
-becomes C4, the middle C on the piano. Using a [table] (https://pages.mtu.edu/~suits/notefreqs.html) to find corresponding frequencies to notes, we can just set certain distances to certain frequencies by using the 
+becomes C4, the middle C on the piano. Using a [table](https://pages.mtu.edu/~suits/notefreqs.html) to find corresponding frequencies to notes, we can just set certain distances to certain frequencies by using the 
 tone() function in arduino, which handles any details to generate a square wave at a 50 percent duty cycle.
 
 The sound was working pretty well but I noticed random fluctuations in the sound of the instrument despite my hands not being at the distance required to make that noise. I realized that there are sometimes incorrect readings that cause a large
@@ -60,7 +60,13 @@ void loop() {
 
 {% endhighlight %}
 
-I then wanted to see if I could incorporate an LCD screen into the build as well. For example, displaying notes that you are playing could be useful, or even some variation of sheet music could be very insteresting as well. I followed this simple [hello world tutorial] (https://www.arduino.cc/en/Tutorial/LibraryExamples/HelloWorld) to get it running,
-most of the work done in this section was correctly wiring the circuit. The final build is quite busy and dense, especially with so many devices all coneected to the same power source and ground.
+I then wanted to see if I could incorporate an LCD screen into the build as well. For example, displaying notes that you are playing could be useful, or even some variation of sheet music could be very insteresting as well. I followed this simple [hello world tutorial](https://www.arduino.cc/en/Tutorial/LibraryExamples/HelloWorld) to get it running,
+most of the work done in this section was correctly wiring the circuit. The final build is quite busy and dense, especially with so many devices all coneected to the same power source and ground. I have attached some images of the build below:
+![IMG_20230706_174402](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/e7435a6e-0a1a-46b9-ad3a-530fa3633e4c)
+![IMG_20230706_174925](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/c9635151-2946-47ad-9cd5-6071d11c8cad)
+![IMG_20230706_174829](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/67cda8b4-2a59-4b3a-a667-5144df754153)
+![IMG_20230706_175042](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/9f0d2210-6fa9-485a-91a1-295ce3af1e25)
+
+
 Below I have attached me playing the chorus of my current favoirte [song!] (https://www.youtube.com/watch?v=lFUDk5G_1s8)
 {% include embed.html url="https://www.youtube.com/embed/Hh_Fox8wAEc" %}
