@@ -16,8 +16,13 @@ between ultra sound emission and receiving, it is possible to calculate the dist
 
 
 
+Here is an image detailing distance calculation, speed * time is divided by 2 due to the fact that the sound has to travel between the reciever and object twice.
+
+![image](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/db830e99-4a26-41c4-9fb8-2ca0416bda75)
+
+
 I then began to wire the sensor, having it print the distance readings. I did some testing and the sensor fails to measure the 
-distance of very curved objects, thin objects, and very near objects which are all reasonable flaws for a sesnor that reloies on sound. Curved objects likely alter the reflection of sound waves, thin objects create a small reflection of sound compared to the sound going past the object
+distance of very curved objects, thin objects, and very near objects which are all reasonable flaws for a sensor that relies on sound. Curved objects likely alter the reflection of sound waves, thin objects create a small reflection of sound compared to the sound going past the object
 and very near objects are likely very strange due to the path that sound may have to travel to leave a transmitter and reach another sensor that is not in the same location. Anyways, after preliminary testing, it seemed
 as long as the object used to reflect the ultrasound is reasonable, everything should function well.
 
