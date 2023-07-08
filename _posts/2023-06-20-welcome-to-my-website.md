@@ -5,5 +5,4 @@ layout: post
 categories: media
 ---
 
-Today I have started my website, I am currently messing around with the Jekyll code though I have been having problems with inserting images into github
-Particularly the Resume and website icon that is viewable in the tabs of a web browser. Hopefully I end up fixing it!I fixed the resume part, but the icon is rought man
+Today I have started my website, I have never really used github for much so this is my first time using it with Jekyll to create my own website! It seems pretty simple after checking out the code and templates. This is a test post to see that I am updating the blog tab correctly!
