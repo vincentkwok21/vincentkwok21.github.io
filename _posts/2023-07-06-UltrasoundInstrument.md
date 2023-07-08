@@ -79,3 +79,4 @@ Me playing the chorus of my current favorite [song!] (https://www.youtube.com/wa
 ![IMG_20230706_174829](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/67cda8b4-2a59-4b3a-a667-5144df754153)
 ![IMG_20230706_175042](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/9f0d2210-6fa9-485a-91a1-295ce3af1e25)
 
+[Link to arduino code](https://github.com/vincentkwok21/Ultrasonic-Musical-Instrument)
