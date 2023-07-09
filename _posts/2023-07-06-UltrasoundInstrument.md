@@ -75,7 +75,7 @@ most of the work done in this section was correctly wiring the circuit. The fina
 Me playing the chorus of my current favorite [song!](https://www.youtube.com/watch?v=lFUDk5G_1s8)
 {% include embed.html url="https://www.youtube.com/embed/Hh_Fox8wAEc" %}
 
-Edited Version
+Edited Version:
 {% include embed.html url="https://www.youtube.com/embed/KVbdvL2xTb0" %}
 ![IMG_20230706_174402](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/e7435a6e-0a1a-46b9-ad3a-530fa3633e4c)
 ![IMG_20230706_174925](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/c9635151-2946-47ad-9cd5-6071d11c8cad)
