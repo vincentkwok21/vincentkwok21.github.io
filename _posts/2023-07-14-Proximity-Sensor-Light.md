@@ -11,6 +11,7 @@ the closer you are to it. I believe this is the first project I have created tha
 few changes. A light that gets brighter as you get closer to it could be used as a night light for young children of people with bad eyesight. It can be used
 as under lighting for a bed, desk, or stairs to prevent someone from running into it. LED lights are also a popular decoration tool right now for younger people.
 Being able to program LED lights outright seems like a valuable skill to have so lets do it!
+
 ![IMG_20230714_145451](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/01d1df65-b9ef-405a-ab21-500f4d51a74f)
 
 
