@@ -21,7 +21,7 @@ IDE. While this dictionary is pretty straightforward, it is one of the few dicti
 it is filled with many quality of life methods and variables that enable programmers to easily create and display color gradients, timings, and display settings.
 I found the syntax of this entire dictionary was very similar to my adventures into the GLSL programming language, the syntax of RGBA, color gradients and more
 were almost exactly the same. GLSL though is much more math and computationally intensive than arduino, which makes sense considering the operational compatibilities of the Arduino
-in complicated tasks. I found [Scott Marley's](https://www.youtube.com/playlist?list=PLgXkGn3BBAGi5dTOCuEwrLuFtfz0kGFTC) tutorials on FastLED to be very helpful. I ended up wathcing the entire series even though I really only used the first 2 videos of information. 
+in complicated tasks. I found [Scott Marley's](https://www.youtube.com/playlist?list=PLgXkGn3BBAGi5dTOCuEwrLuFtfz0kGFTC) tutorials on FastLED to be very helpful. I ended up watching the entire series even though I really only used the first 2 videos of information. 
 learning about LED color and programming is a really interesting physics lesson in of itself!
 
 I first began with the basics, how to change independent LED's as well as using predefined keywords to specify colors. I have attached the code for this post
@@ -120,6 +120,8 @@ RGB syntax, I would probably have to keep the same ratio between RGB while also 
 corrections what can be doe to the color. I found using the TypicalPixelString setting accentuates the Reds and weakens the greens/yellows which to the human visual specturm are
 typically more bright than red. TypicalPixelString makes the greens and yellows less bright in order to balance the colors out in the display making everything a
 bit more accurate.
+
+![1_W30TLUP9avQwyyLfwu7WYA](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/5b820462-73d0-411d-a20e-97ee22209683)
 
 I added the Ultrasound sensor into the project using a lot of similar code from my musical instrument [post](https://vincentkwok21.github.io/UltrasoundInstrument/). I found a lot of fluctuations and inconsistencies with the distance measurements causing the light to
 flicker between saturation values instead of smoothly transitioning between distance values. I did some internet searching saying at medium distances, the ultrasound may end up overalpping ontop of itself and 
