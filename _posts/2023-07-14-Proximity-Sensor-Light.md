@@ -1,5 +1,5 @@
 ---
-title:  "Making a proximity sensor light"
+title:  "Making a Proximity Sensor Light"
 mathjax: true
 layout: post
 categories: media
