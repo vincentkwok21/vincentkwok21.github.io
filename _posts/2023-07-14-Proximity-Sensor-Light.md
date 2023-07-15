@@ -56,7 +56,7 @@ in the project. I wonder engineering is in these diodes that allows us to addres
 each segment can be individually programmable. I suspect this might have something to do with using resistance to decide which led recieved information, not exactly sure but just 
 a big question I can while working on this project.
 
-Next I attempt to program gradient, by using bytemark.com as well as Paletteknife, it is very easy to import gradients into FastLED. By creating an object of 
+Next I attempt to program gradient, by using [bytemark.com](http://soliton.vm.bytemark.co.uk/pub/cpt-city/views/totp-c3g.html) as well as [Paletteknife](http://fastled.io/tools/paletteknife/), it is very easy to import gradients into FastLED. By creating an object of 
 CRGB Palette16 type, we can cycle though the values of this data structure and fill each led to match the respective color. This allows us to imitate any gradient smoothly
 provded enough leds are supplied. Although my strip has 300 LED's, it is fascinating how I can specify that I want only 18 LED's to work at all.
  This is actually a really good safety measure. Since each led will require a certain voltage and amperage, it will be very easy to overdraw power from a computer port. I'm sure that this library was created by someone over a long time very skillfully but 
