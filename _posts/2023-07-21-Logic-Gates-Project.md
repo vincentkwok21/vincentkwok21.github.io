@@ -37,6 +37,7 @@ some Google searched statistic on the power output of the Arduino but that did n
 
 ![IMG_20230721_020510](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/f585366e-08a0-4e00-a612-42cdbb7093f7)
 <sub> Final Breadboard Build seen in video</sub>
+
 After demonstrating that the project works well, I decided to create it in KiCAD with the idea to order it from a PCB manufacturing website. I did some refreshers on how to use KiCAD as well as how to create a Gerber/Drill file. I also brushed up on the Layers of the PCB as I had forgotten
 exactly which layers must be used. I even learned how to make a custom Footprint since I didn't like the selection of switch footprints preinstalled into Kicad compared to the switches I owned. When constucting the PCB,
 I was really amazed by how intelligent the assistance was in creating copper pathing. I adapted to my choice in the positioning of the components to produce what would seem to be a much more material efficient way to design. I hope to do more PCB design in the future
