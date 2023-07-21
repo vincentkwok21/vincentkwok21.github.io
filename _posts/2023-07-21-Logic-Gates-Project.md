@@ -43,7 +43,7 @@ I was really amazed by how intelligent the assistance was in creating copper pat
 as the tools in Kicad to prevent electrical and design errors/iinefficiencies is something that I could also improved on and learn about from experience.
 I will attach images of the completed schematic and PCB below:
 
-[LogicSchematic.pdf](https://github.com/vincentkwok21/vincentkwok21.github.io/files/12122014/LogicSchematic.pdf)
+![LogicSchematic.pdf](https://github.com/vincentkwok21/vincentkwok21.github.io/files/12122014/LogicSchematic.pdf)
 ![PCBlogicgate](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b886fcfe-f470-4131-a99b-8d6d98420e76)
 
 [Schematic](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicSchematic.pdf)      [PCB Image](https://github.com/vincentkwok21/Logic-Gate/blob/main/PCBlogicgate.PNG)      [PCB ZIP](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicPCB1.zip)
