@@ -32,7 +32,7 @@ no anomalies would take place. I have never wired something with this many compo
 I realized here that the Arduino must have some specification for power output. It could be possible that with all LED's on, I would run out of power and require a power supply module. I probably should have just estimated the total power output and compared it to 
 some Google searched statistic on the power output of the Arduino but that did not seem as fun as just brute force building it so I built it, falling into some silly situations which I explain in the video:
 
-
+{% include embed.html url="https://www.youtube.com/embed/Ak-EwyCQpS8" %}
 <sub> A video of me demonstrating each logic gate, this project made me realized I had to buy many more resistors for future projects, especially if I intend to do soldering</sub>
 
 ![IMG_20230721_020510](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/f585366e-08a0-4e00-a612-42cdbb7093f7)
