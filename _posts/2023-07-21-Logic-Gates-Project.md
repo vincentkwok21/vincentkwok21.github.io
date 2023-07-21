@@ -41,11 +41,12 @@ some Google searched statistic on the power output of the Arduino but that did n
 After demonstrating that the project works well, I decided to create it in KiCAD with the idea to order it from a PCB manufacturing website. I did some refreshers on how to use KiCAD as well as how to create a Gerber/Drill file. I also brushed up on the Layers of the PCB as I had forgotten
 exactly which layers must be used. I even learned how to make a custom Footprint since I didn't like the selection of switch footprints preinstalled into Kicad compared to the switches I owned. When constucting the PCB,
 I was really amazed by how intelligent the assistance was in creating copper pathing. I adapted to my choice in the positioning of the components to produce what would seem to be a much more material efficient way to design. I hope to do more PCB design in the future
-as the tools in Kicad to prevent electrical and design errors/iinefficiencies is something that I could also improved on and learn about from experience.
+as the tools in Kicad to prevent electrical and design errors/inefficiencies is something that I could also improved on and learn about from experience.
 I will attach images of the completed schematic and PCB below:
 
 ![PCBschmatic](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/78362faa-8ff4-4e92-acdb-904be812ff78)
 <sub> AND (top-left), NAND (top-right), OR (bottom-left), NOR (bottom-right). </sub>
+
 ![PCBlogicgate](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b886fcfe-f470-4131-a99b-8d6d98420e76)
 
 [Schematic](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicSchematic.pdf)      [PCB Image](https://github.com/vincentkwok21/Logic-Gate/blob/main/PCBlogicgate.PNG)      [PCB ZIP](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicPCB1.zip)
