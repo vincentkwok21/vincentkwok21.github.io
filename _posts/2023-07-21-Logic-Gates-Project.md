@@ -45,6 +45,7 @@ as the tools in Kicad to prevent electrical and design errors/inefficiencies is 
 I will attach images of the completed schematic and PCB below:
 
 ![PCBschmatic](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/78362faa-8ff4-4e92-acdb-904be812ff78)
+
 <sub> AND (top-left), NAND (top-right), OR (bottom-left), NOR (bottom-right). </sub>
 
 ![PCBlogicgate](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b886fcfe-f470-4131-a99b-8d6d98420e76)
