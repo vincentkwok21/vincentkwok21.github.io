@@ -48,7 +48,9 @@ I will attach images of the completed schematic and PCB below:
 
 <sub> AND (top-left), NAND (top-right), OR (bottom-left), NOR (bottom-right). </sub>
 
+
 ![PCBlogicgate](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b886fcfe-f470-4131-a99b-8d6d98420e76)
+
 
 [Schematic](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicSchematic.pdf)      [PCB Image](https://github.com/vincentkwok21/Logic-Gate/blob/main/PCBlogicgate.PNG)      [PCB ZIP](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicPCB1.zip)
 
