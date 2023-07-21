@@ -6,7 +6,14 @@ categories: media
 ---
 
 I have been doing Arduino projects for a while and have been continuing to do so but I don't just want to be a 1 trick pony so I have decided to make something using just the electrical engineering fundamental knowledge I have. For
-this project, I will not be using Arduino as it seems a bit too easy to do some things. Arduino is often considered a tool of hobbiests to tinker with. While this is often very convienient, I want to do a more time consuming project that focuses a bit deeper into the bread and butter of electrical engineering. I began this project by drawing some schematics of logic gates without using the internet. Using the concepts learned in my devices classes, I deployed the concept of transistors being able to be used as switches to create logic gates. These gates follow the assumption that no current from the base pin of the BJT will reach the emitter pin. This assumption, I later found out, was completely false, causing my circuits to not behave exactly as planned. This incorrect assumption is from me forgetting that BJT's and MOSFETs are different things (lol) but without the internet I completely did not realize until I tried building these circuits on breadboard. If you take all my sketches and replace every BJT with an NMOSFET, I believe they would work. I found some very interesting insights into how you could manipulate truth tables of a given logical circuit in this pursuit though. While my XOR and NAND gates may not be the most optimized choices, they show how you can "add" circuits together or invert a circuit by simply adding a not gate into another logic gate. The entire PDF of my sketches for this entire post can be found [here.](https://github.com/vincentkwok21/Logic-Gate/blob/main/Transistor%20Logic%20Gates.pdf)
+this project, I will not be using Arduino as it seems a bit too easy to do some things. Arduino is often considered a tool of hobbiests to tinker with. While this is often very convienient, I want to do a more time consuming project that focuses a bit deeper into the bread and butter of electrical engineering. I began this project by drawing some schematics of logic gates without using the internet. 
+
+![PCBlogicgate](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b886fcfe-f470-4131-a99b-8d6d98420e76)
+<sub> Final Draft of PCB</sub>
+
+
+
+Using the concepts learned in my devices classes, I deployed the concept of transistors being able to be used as switches to create logic gates. These gates follow the assumption that no current from the base pin of the BJT will reach the emitter pin. This assumption, I later found out, was completely false, causing my circuits to not behave exactly as planned. This incorrect assumption is from me forgetting that BJT's and MOSFETs are different things (lol) but without the internet I completely did not realize until I tried building these circuits on breadboard. If you take all my sketches and replace every BJT with an NMOSFET, I believe they would work. I found some very interesting insights into how you could manipulate truth tables of a given logical circuit in this pursuit though. While my XOR and NAND gates may not be the most optimized choices, they show how you can "add" circuits together or invert a circuit by simply adding a not gate into another logic gate. The entire PDF of my sketches for this entire post can be found [here.](https://github.com/vincentkwok21/Logic-Gate/blob/main/Transistor%20Logic%20Gates.pdf)
 
 ![image](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/5627d12d-1f57-4eda-87e2-7f6e15c61382)
 
@@ -25,6 +32,7 @@ no anomalies would take place. I have never wired something with this many compo
 I realized here that the Arduino must have some specification for power output. It could be possible that with all LED's on, I would run out of power and require a power supply module. I probably should have just estimated the total power output and compared it to 
 some Google searched statistic on the power output of the Arduino but that did not seem as fun as just brute force building it so I built it.
 
+
 <sub> A video of me demonstrating each logic gate, this project made me realized I had to buy many more resistors for future projects, especially if I intend to do soldering</sub>
 
 After demonstrating that the project works well, I decided to create it in KiCAD with the idea to order it from a PCB manufacturing website. I did some refreshers on how to use KiCAD as well as how to create a Gerber/Drill file. I also brushed up on the Layers of the PCB as I had forgotten
@@ -32,10 +40,11 @@ exactly which layers must be used. I even learned how to make a custom Footprint
 I was really amazed by how intelligent the assistance was in creating copper pathing. I adapted to my choice in the positioning of the components to produce what would seem to be a much more material efficient way to design. I hope to do more PCB design in the future
 as the tools in Kicad to prevent electrical and design errors/iinefficiencies is something that I could also improved on and learn about from experience.
 I will attach images of the completed schematic and PCB below:
-[LogicSchematic.pdf](https://github.com/vincentkwok21/vincentkwok21.github.io/files/12121823/LogicSchematic.pdf)
+
+![LogicSchematic.pdf](https://github.com/vincentkwok21/vincentkwok21.github.io/files/12121823/LogicSchematic.pdf)
 ![PCBlogicgate](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b886fcfe-f470-4131-a99b-8d6d98420e76)
 
-[Schematic](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicSchematic.pdf)  [PCB Image]()  [PCB ZIP](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicPCB1.zip)
+[Schematic](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicSchematic.pdf)      [PCB Image](https://github.com/vincentkwok21/Logic-Gate/blob/main/PCBlogicgate.PNG)      [PCB ZIP](https://github.com/vincentkwok21/Logic-Gate/blob/main/LogicPCB1.zip)
 
 So I created the Gerber Files and such and uploaded the files onto various PCB websites. I found that the shipping for all these websites was at least 15 dollars for any reasonable shipping time which made me really sad actually. I didn't want to pay at least 25 
 dollars for such a simple circuit, so I think I will pass on buying the PCB, alternatively I have some perf boards that I will use with solder which is actually even better for geting some solder practice! Anyways, I intend to actually order a PCB, though 
