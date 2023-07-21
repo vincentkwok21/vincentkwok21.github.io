@@ -6,7 +6,7 @@ categories: media
 ---
 
 I have been doing Arduino projects for a while and have been continuing to do so but I don't just want to be a 1 trick pony so I have decided to make something using just the electrical engineering fundamental knowledge I have. For
-this project, I will not be using Arduino as it seems a bit too easy to do some things. Arduino is often considered a tool of hobbiests to tinker with. While this is often very convienient, I want to do a more time consuming project that focuses a bit deeper into the bread and butter of electrical engineering. I began this project by drawing some schematics of logic gates without using the internet. 
+this project, I will not be using Arduino as it seems a bit too easy to do some things. Arduino is often considered a tool of hobbiests to tinker with. While this is often very convienient, I want to do a more time consuming project that focuses a bit deeper into the bread and butter of electrical engineering. I began this project by drawing some schematics of logic gates without using the internet as a challenge.
 
 ![PCBlogicgate](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/b886fcfe-f470-4131-a99b-8d6d98420e76)
 <sub> Final Draft of PCB</sub>
@@ -30,11 +30,13 @@ resulted in and inverse input that did not require the construction of a NOT gat
 My original intention of this project was to take all these circuits and put them on a PCB for soldering practice while also ordering my own PCB which is something I have never done before. Before modelling it on Kicad and ordering the PCB, I wanted to make sure that
 no anomalies would take place. I have never wired something with this many components in a design I created myself so I decided to build all the circuits on a breadboard module and connect all their voltage supplies and grounds to a single 5V and GND pin on the Arduino/ Battery
 I realized here that the Arduino must have some specification for power output. It could be possible that with all LED's on, I would run out of power and require a power supply module. I probably should have just estimated the total power output and compared it to 
-some Google searched statistic on the power output of the Arduino but that did not seem as fun as just brute force building it so I built it.
+some Google searched statistic on the power output of the Arduino but that did not seem as fun as just brute force building it so I built it, falling into some silly situations which I explain in the video:
 
 
 <sub> A video of me demonstrating each logic gate, this project made me realized I had to buy many more resistors for future projects, especially if I intend to do soldering</sub>
 
+![IMG_20230721_020510](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/f585366e-08a0-4e00-a612-42cdbb7093f7)
+<sub> Final Breadboard Build seen in video</sub>
 After demonstrating that the project works well, I decided to create it in KiCAD with the idea to order it from a PCB manufacturing website. I did some refreshers on how to use KiCAD as well as how to create a Gerber/Drill file. I also brushed up on the Layers of the PCB as I had forgotten
 exactly which layers must be used. I even learned how to make a custom Footprint since I didn't like the selection of switch footprints preinstalled into Kicad compared to the switches I owned. When constucting the PCB,
 I was really amazed by how intelligent the assistance was in creating copper pathing. I adapted to my choice in the positioning of the components to produce what would seem to be a much more material efficient way to design. I hope to do more PCB design in the future
