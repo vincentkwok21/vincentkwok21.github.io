@@ -17,7 +17,7 @@ Using the concepts learned in my devices classes, I deployed the concept of tran
 
 ![image](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/5627d12d-1f57-4eda-87e2-7f6e15c61382)
 
-<sub> My iteration of XOR gate. Notice how the XOR gate uses AND (left side) and OR (right side). The upper drawing shows my thought process of using a NOT gate to create the correct output to feed into the BJT (which should be an NMOSFET). Bottom daring is my final idea.</sub>
+<sub> My iteration of XOR gate. Notice how the XOR gate uses AND (left side) and OR (right side). The upper drawing shows my thought process of using a NOT gate to create the correct output to feed into the BJT (which should be an NMOSFET). Bottom drawing is my final idea.</sub>
 
 ![image](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/c393f516-317f-44ad-96cd-c058c7b27362)
 
