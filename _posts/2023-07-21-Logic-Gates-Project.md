@@ -61,3 +61,10 @@ Could be an interesting project that is a legitimate use of PCB companies. I hav
 so I will probably not go that course.
 
 Anyways, I cannot exactly follow my PCB wiring too well for soldering since I do not have two distinguished layers that I can easily create so I will go back to the schmatic. I will update this post when that is done!
+
+##Update: 7/27/2023 ##
+I have been trying to solder the original schematic for the last several days. My first attempt was unsuccessful as the NOR gate simply didnt work and while testing the circuit without the buttons and main postiive battery and negative battery terminals, I shorted the diode by accidentally testing the incorrect lead for the or gate. I decided to resolder the whole thing, getting successful results after testing each logic gate after it was soldered. I then wired the buttons and positive and negative battery terminal lines into the perf board and did not get the circuits to work. The only functional circuit was the NOR gate. I then posted asking about ways to potentially fix my project, there wasnt too much advice that I already knew though a user did suggest that I print it on a PCB so I will order a PCB from my schmatic and get it ordered. It seems there are no problems with the schematic as I have already createdd it on breadboard as well as shown it on the internet without anyone noticing any problems. For now, I would not call this project a success though I did have a working model even on the PCB at some point though I do not have any video evidence as it took me a long time to test all the inputs for each logic gate. I will attach the images of my perfboard job below:
+![IMG_20230727_001140](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/67eed9c3-4f77-4b61-94c0-ff9573d75b45)
+<sub>Top right AND, Top Left NAND, Bottom Right OR, Bottom Left NOR</sub>
+
+![IMG_20230727_001126](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/3b687852-89fa-4167-acf4-e0681ef4cdd9)
