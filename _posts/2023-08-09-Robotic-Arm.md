@@ -12,6 +12,11 @@ a number servo motors at the same time with the arduino, connecting each servo t
 ![Screenshot_20230810_001102_com huawei himovie overseas](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/be292961-a272-4cea-bd5a-e637a710c2a8)
 
 
+
+{% include embed.html url="https://www.youtube.com/embed/izWT1uid2_c" %}
+<sub> quick video of the final product :) </sub>
+
+
 For this project, I opted to use popsicle sticks as they
 are very cheap and wood, which is a useful building material in terms of being able to be used for many purposes. Almost any type of glue can be used as adhesive for wood, it is relatively light and
 durable yet it is flexible. I also created a more civil engineering related project pertaining to a bridge building competition in the past which used elmers glue and popsicle sticks. This previous project opened my eyes to prototyping in wood and glue,
