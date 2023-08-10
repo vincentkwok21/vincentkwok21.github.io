@@ -8,7 +8,10 @@ categories: media
 
 I have done a lot of projects that pertain to very electronic related things that do not have moving parts. I would like to have a project
 that is capable of some type of movement and customizability. A robotic arm seems like a pretty simple idea. In essence, you must be able to control
-a number servo motors at the same time with the arduino, connecting each servo together with the material of the arm. For this project, I opted to use popsicle sticks as they
+a number servo motors at the same time with the arduino, connecting each servo together with the material of the arm. 
+
+
+For this project, I opted to use popsicle sticks as they
 are very cheap and wood, which is a useful building material in terms of being able to be used for many purposes. Almost any type of glue can be used as adhesive for wood, it is relatively light and
 durable yet it is flexible. I also created a more civil engineering related project pertaining to a bridge building competition in the past which used elmers glue and popsicle sticks. This previous project opened my eyes to prototyping in wood and glue,
 as it forces an engineer to deal with more physics related issues such as directions of force, stress, and sub optimal materials. These problems may not be as evident as prototyping in metal or 3d plastics which has it own pros and cons.
