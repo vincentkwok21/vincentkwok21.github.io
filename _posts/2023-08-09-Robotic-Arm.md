@@ -31,6 +31,9 @@ I figured the Analog pins could only read data if it can in someway, be related 
 but since I can avoid making this assumption, I decided to do that a minimize the risk of anything going wrong with voltage supplies. So I connect the potentiometers to the 5V supply from the Arduino. Since the 5V did not seem like it was enought to power the 4 servos consistently, I decided to continue raising the voltage source strength until all motors functioned which thurned out to be around 6V.
 This voltage also is not led into the analog pins, which probably makes the current that is going into each servo be closer to the desirable amount.
 
+![Roboticarm schematic](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/c69c501e-12e4-49ad-95f3-e6078866155f)
+<sub> schematic, does not include construction details</sub>
+
 So after this process of figuring out the power supply issues, I finally created the 4 servos working in unison:
 
 The next step was much less technical though still interesting, I created the arm with a hot glue gun, which worked very well to anchor each servo to the popsicle stick wood. This method worked for basically every connection of the arm except the base. Due to the length of the arm from the center of mass, 
@@ -42,7 +45,12 @@ But which side of the rotational limit is considered as 0 and which is 180? This
 to determine the status of the servo. These little details caused the process of carefully changing my parameters to also be slower than expected. Not only was the self-destruction of the arm a problem, but also the potential daamage to the grabbing mechanism, which has only 40 degrees
 of freedom in which the mechanism is guaranteed not to damage itself out of the potential 180.
 
+![Img0226-1920x1280](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/cb4dfd0a-b1a6-4ec5-8b65-47dd26bd8ff3)
+<sub>SG90 Servo, notice the symmeticality of where the horn must originate </sub>
+]
 After these adjustments and the construction process, I wired the circuit together using 2 perf boards, 1 for powering the potentiometers and the other for powering the servos. Combining these with the code, schematic and the consideration that I included in this report and this project is highly recreatable by other people.
 I will include a video of the project below and perhaps an edited version of the arm constuction in the future.
 
+
 {% include embed.html url="https://www.youtube.com/embed/16KMgaprCCc" %}
+<sub> longer explanation of arm, schematic, and code </sub>
