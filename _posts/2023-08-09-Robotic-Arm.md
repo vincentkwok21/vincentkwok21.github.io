@@ -9,6 +9,7 @@ categories: media
 I have done a lot of projects that pertain to very electronic related things that do not have moving parts. I would like to have a project
 that is capable of some type of movement and customizability. A robotic arm seems like a pretty simple idea. In essence, you must be able to control
 a number servo motors at the same time with the arduino, connecting each servo together with the material of the arm. 
+![Screenshot_20230810_001102_com huawei himovie overseas](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/be292961-a272-4cea-bd5a-e637a710c2a8)
 
 
 For this project, I opted to use popsicle sticks as they
