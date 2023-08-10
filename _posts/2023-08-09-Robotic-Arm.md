@@ -43,4 +43,6 @@ to determine the status of the servo. These little details caused the process of
 of freedom in which the mechanism is guaranteed not to damage itself out of the potential 180.
 
 After these adjustments and the construction process, I wired the circuit together using 2 perf boards, 1 for powering the potentiometers and the other for powering the servos. Combining these with the code, schematic and the consideration that I included in this report and this project is highly recreatable by other people.
-O will include a video of the project below and perhaps an edited version of the arm constuction in the future.
+I will include a video of the project below and perhaps an edited version of the arm constuction in the future.
+
+{% include embed.html url="https://www.youtube.com/embed/16KMgaprCCc" %}
