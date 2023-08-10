@@ -55,7 +55,7 @@ of freedom in which the mechanism is guaranteed not to damage itself out of the 
 ![Img0226-1920x1280](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/cb4dfd0a-b1a6-4ec5-8b65-47dd26bd8ff3)
 <sub>SG90 Servo, notice the symmeticality of where the horn must originate </sub>
 
-After these adjustments and the construction process, I wired the circuit together using 2 perf boards, 1 for powering the potentiometers and the other for powering the servos. Combining these with the code, schematic and the consideration that I included in this report and this project is highly recreatable by other people.
+After these adjustments and the construction process, I wired the circuit together using 2 perf boards, 1 for powering the potentiometers and the other for powering the servos. Combining these with the [code](https://github.com/vincentkwok21/Robotic-Arm/blob/main/4-servo-code), schematic and the consideration that I included in this report and this project is highly recreatable by other people.
 I will include a video of the project below and perhaps an edited version of the arm constuction in the future.
 
 
