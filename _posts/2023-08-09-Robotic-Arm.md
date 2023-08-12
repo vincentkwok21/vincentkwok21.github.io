@@ -61,6 +61,8 @@ of freedom in which the mechanism is guaranteed not to damage itself out of the 
 After these adjustments and the construction process, I wired the circuit together using 2 perf boards, 1 for powering the potentiometers and the other for powering the servos. Combining these with the [code](https://github.com/vincentkwok21/Robotic-Arm/blob/main/4-servo-code), schematic and the consideration that I included in this report and this project is highly recreatable by other people.
 I will include a video of the project below and perhaps an edited version of the arm constuction in the future.
 
+{% include embed.html url="https://www.youtube.com/embed/3gcCM6EK2jw" %}
+<sub> short, edited video </sub>
 
 {% include embed.html url="https://www.youtube.com/embed/16KMgaprCCc" %}
 <sub> longer explanation of arm, schematic, and code </sub>
