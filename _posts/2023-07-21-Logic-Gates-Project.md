@@ -69,3 +69,10 @@ I have been trying to solder the original schematic for the last several days. M
 <sub>Top right AND, Top Left NAND, Bottom Right OR, Bottom Left NOR</sub>
 
 ![IMG_20230727_001126](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/3b687852-89fa-4167-acf4-e0681ef4cdd9)
+
+## Update: 8/15/2023
+I have had the PCBs delivered last week though I was preoccupied with the robotic arm project. I got the board to work after an intial failed attempt where I put the button switches in the incorrect orientation for each position, causing every single LED to output the respective input if both buttons were considered as active or "1". As foolish as I felt for putting all the switches in the wrong orientation, this outcome was actually very promising since I is a pretty strong indicator that every thing was connected correctly, AKA: the schematic works and the problem with my solder job from the perf board attempts was truly a faulty connection and not a design error. Fortunately, the PCB manufacturer requires at least 5 copies of the same pcb to be ordered so I had multiple tries for this project. I used the second PCB and found that the design worked flawlessly :). So finally, after 4 attempts of failing a solder job, a whole day of refreshing and designing in KiCAD, a week of waiting for the PCB to arrive, and designing the logic gates from scratch by hand, my longest project so far has been competed! I am shocked at how long such as simle seeming project has taken but I have also learned a lot about the design process of creating a larger circuit and using software to make designs into reality.
+
+{% include embed.html url="https://www.youtube.com/embed/2VDAhpkBWYY" %}
+
+<sub>Final logic gate demo video</sub>
