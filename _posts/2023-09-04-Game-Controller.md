@@ -1,5 +1,5 @@
 ---
-title:  "Creating a customizable jump rope game with a VL53l0X sensor"
+title:  "Building a game controller and airmouse using accelerometer"
 mathjax: true
 layout: post
 categories: media
