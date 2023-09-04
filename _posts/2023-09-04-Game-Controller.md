@@ -49,7 +49,7 @@ wires. Figuring out where you want your buttons could also be a bit challenging.
 
 ![IMG_20230904_161029](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/2e38936d-ab49-4e09-807a-d902c8a33bdb)
 
-<sub>Final Circuit Configuration </sub>
+<sub>^Final Circuit Configuration </sub>
 
 ### Future Adjustments:
  There are a couple of future adjustments that I may think about including in the future. Firstly, the acceleration readings of the MPU-6050 is not always the best way to move the mouse. There are other types of measurements that can be used for the mouse. To me, the first that comes to mind is the magnetometer, which is essentially a compass. Having vertical translation being the pitch of the MPU-6050 orientation is fine but having horizontal translation as the roll of the sensor is not as intuitive as the yaw. The problem with yaw is that the MPU-6050 physically cannot calculate or measure yaw but the 9-axis MPU-9250 with a magnetometer can find the magnetic poles of the Earth to make a measurement that can be translated into yaw. 
