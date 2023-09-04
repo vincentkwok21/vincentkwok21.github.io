@@ -12,7 +12,7 @@ segway into scripting and automation. These skills could be valuable in terms of
 genuinely helpful projects.
 
 ![Screenshot_20230904_161129_com huawei himovie overseas](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/ca13a519-6418-4d65-87ca-999774b6d8e4)
-
+<sub>^ Airmouse</sub>
 
 The idea here is to build a game controller that behaves as a keyboard and mouse. Initially, this controller was meant to be 
 used to play Valorant as a multiple person team. One person controlling the mouse movement / buttons and the other controlling all other inputs. Most videogames though,
@@ -46,6 +46,10 @@ The components used for this project are listed below:
 Using basic pinout details for each of the MPU-6050, joystick, and pushbuttons, the circuitry of the project is quite simple and most people should be able to figure it out by looking into the code.
 I used a breadboard to construct this. The most difficult part of the circuitry is to wire and orient everything in an ergonomic fashion, as the MPU-6050 must be able to be held and not be constantly pulled by
 wires. Figuring out where you want your buttons could also be a bit challenging.
+
+![IMG_20230904_161029](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/2e38936d-ab49-4e09-807a-d902c8a33bdb)
+
+<sub>Final Circuit Configuration </sub>
 
 ### Future Adjustments:
  There are a couple of future adjustments that I may think about including in the future. Firstly, the acceleration readings of the MPU-6050 is not always the best way to move the mouse. There are other types of measurements that can be used for the mouse. To me, the first that comes to mind is the magnetometer, which is essentially a compass. Having vertical translation being the pitch of the MPU-6050 orientation is fine but having horizontal translation as the roll of the sensor is not as intuitive as the yaw. The problem with yaw is that the MPU-6050 physically cannot calculate or measure yaw but the 9-axis MPU-9250 with a magnetometer can find the magnetic poles of the Earth to make a measurement that can be translated into yaw. 
