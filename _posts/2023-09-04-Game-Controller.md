@@ -53,6 +53,10 @@ wires. Figuring out where you want your buttons could also be a bit challenging.
 
 <sub>^Final Circuit Configuration </sub>
 
+{% include embed.html url="https://www.youtube.com/embed/-_7EcROmP-8" %}
+
+<sub>^ Airmouse Demo</sub>
+
 ### Future Adjustments:
  There are a couple of future adjustments that I may think about including in the future. Firstly, the acceleration readings of the MPU-6050 is not always the best way to move the mouse. There are other types of measurements that can be used for the mouse. To me, the first that comes to mind is the magnetometer, which is essentially a compass. Having vertical translation being the pitch of the MPU-6050 orientation is fine but having horizontal translation as the roll of the sensor is not as intuitive as the yaw. The problem with yaw is that the MPU-6050 physically cannot calculate or measure yaw but the 9-axis MPU-9250 with a magnetometer can find the magnetic poles of the Earth to make a measurement that can be translated into yaw. 
  
@@ -61,4 +65,8 @@ wires. Figuring out where you want your buttons could also be a bit challenging.
  <sub>^ Pitch, Roll, and Yaw</sub>
 
 Another adjustment that can be done is the joystick movement calculation. For now, the code is only capable of  moving in 8 directions. Whenever the joysick is moved in a diagonal direction past the thesholds of movement in the code, the keyboard input is always alternating keys. This means the movements can only be in increments of 45 degrees. The code can be changed to be more accurate. By comparing the ratio of the 2 potentiometer albsolute readings from the central deadzone, we can calculate the slope that we want the user's character to move at and use this slope to decide the rate at which different keys are pressed to move at an angle that reflects the expected input more accurately.
+
+{% include embed.html url="https://www.youtube.com/embed/wJwy3xxk5F0" %}
+
+<sub>^ Valorant Demo</sub>
 
