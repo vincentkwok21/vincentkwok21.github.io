@@ -75,8 +75,8 @@ lego piece and froze water using it as a mold. The outcome was an extremely slip
  Obviously, there is a safety drawback of using water in an electrical system and melting ice will eventually cause the condensation to run out but it works very well!. Another way to fix the turning problem is to increase the torque applied to the wheels by using new motors  or a higher supply voltage, though this would cause a rebuilding of the fundamental structure.
 
 The final code and files are attached below:
-[code ](https://github.com/vincentkwok21/ESP32_Car/blob/main/Esp32BluetoothCar.ino)
-[app apk ] (https://github.com/vincentkwok21/ESP32_Car/blob/main/Robotic_Car.apk)
+[code](https://github.com/vincentkwok21/ESP32_Car/blob/main/Esp32BluetoothCar.ino)
+[app apk](https://github.com/vincentkwok21/ESP32_Car/blob/main/Robotic_Car.apk)
 
 {% include embed.html url="https://www.youtube.com/embed/HMhpJwU3rPM" %}
 
