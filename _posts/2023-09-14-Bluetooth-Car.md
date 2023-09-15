@@ -7,6 +7,8 @@ categories: media
 
 As this is my final project of the summer, I want to incorporate aspects that represent the culmination of what I have learned in terms of problem solving, circuitry, and embedded systems programming. In pursuit of a project that stands out from the norm and showcases my creativity and technical skills, I embarked on the endeavor to design and construct a "Fire Fighting Vehicle." This project even on the surface level has several complex components that should require a good amount ingenuity and creative workarounds.
 
+
+
 At its core, the fire fighting vehicle is the combination of a robotic arm and a driving motors to control the direction of the vehicle. These two ideas on the surface are quite simple, as I have already explored building a robotic arm previously and simply using a motor should be no challenge. Where this project may fall into complexity is the process of wireless signal transfer and communication. Before this project, I was unaware of how to implement this in any capacity or form. The process of researching and finding strategies to create bluetooth signals that can be controlled is an obvioius conflict point. Another point that should be noted is the appearance of problems that arise as a project becomes more complex. Even in the jump rope project which had many situations where code complexity created interesting workarounds, it is apparent that the robotic car will certainly have problems derived from complexity of the system, especially since hardware wise, this project will be more complicated than any previous project I have done.
 
 ## Choice of Mechanisms/Hardware:
