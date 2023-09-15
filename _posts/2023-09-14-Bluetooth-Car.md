@@ -13,6 +13,9 @@ As this is my final project of the summer, I want to incorporate aspects that re
 
 
 
+
+
+
 ![IMG_20230915_002553](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/4ce3b496-166a-4b67-9284-b07a32e42cd8)
 
 <sub>^ Car underside </sub>
