@@ -13,6 +13,7 @@ At its core, the fire fighting vehicle is the combination of a robotic arm and a
 
 ## Choice of Mechanisms/Hardware:
   The first issue that must always be tackled before every project is the criteria that must be met with the selected hardware. The criteria I have chosen is as follows:
+  
 | Criteria:      |
 | ----------- |
 | Turn and move forward/backward |
