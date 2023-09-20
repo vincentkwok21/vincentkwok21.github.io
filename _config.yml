@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About me", url: "https://vincentkwok21.github.io"}
   - {title: "Blog", file: "blog.md"}
   - {title: Gallery, file: "gallery.md"}
-  - {title: "Resume", url: "/assets/Copy of Vincent Kwok internship search resume.docx (1).pdf"}
+  - {title: "Resume", url: "/assets/assets/Copy of Vincent Kwok internship search resume.docx (2).pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:vkwokwork@gmail.com"}
