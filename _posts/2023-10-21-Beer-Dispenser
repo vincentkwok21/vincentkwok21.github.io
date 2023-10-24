@@ -11,4 +11,21 @@ scams. So I decided to make my own since it was pretty short notice. Queue the m
 and barely made it to the party on time.
 
 Last year, my costume was "Beer Pong" this costume uses a cardboard slab as its main body with velcro attached in a cone shape like how cups 
-are oriented in beer pong. The idea is that 
+are oriented in beer pong. The idea is that when someone wants to play beer pong, I would just lay on the ground and pour some beer in the cups. I think people really enjoyed this
+concept because I ended up winning a costume contest that year! Anyways I want to create a costume of similar caliber of coolness so here it goes.
+
+
+The inital idea planning was pretty straightforward, with the my current skill set, I wanted to do something with moving parts that is semi interactive but not insanely fragile.
+I ended up deciding between being a human sized simon game and a beer dispenser. If you are unfamiliar with Simon, it is basically a memory game. The device will sequentially turn
+on one light of the four at a time. Each light is also a different color, Red, Blue, Green, or Yellow. When the game performs a random sequence, the user is then prompted to push 
+buttons corresponding to the lights in the same sequence as the lights. If they fail to remember the sequence, they lose. If the perform the sequence correctly, the game will
+then play the same sequence again but append one more light to the end of the sequence and continue this until the game is over. I thought the logic of this and the gamification
+could be very interesting but what I realized is that putting a Simon game on myself would be a bit awkward since I was not sure how I would put
+The problem with the human sized Simon game was that I would need quite at large button and I was not sure where to put it. LED strips could handle making the buttons easy to see
+but its quite awkard to build around the human body unless you are really prepared to do so. I was not and did not have that amount of time to build. So I decided on a beer dispenser.
+The concept of the beer dispenser is quite simple. Every part of this project is alredy something that I have done before. It includes a pump, a speaker, a led strip, an arduino and that is about it.
+The most difficult part of this build was that I had to fit the entire project inside a backpack and put it in a way that does not compromise the circuit or the safety of the build. Since beer and electronics are being in
+the same backpack with only a plastic container dividing them, the margin of error for this project is very low. In fact, this project is challenging because of my need to simplify the circuits as much as possible
+to avoid points of conflict.
+
+Condensation
