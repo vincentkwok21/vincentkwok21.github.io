@@ -28,4 +28,37 @@ The most difficult part of this build was that I had to fit the entire project i
 the same backpack with only a plastic container dividing them, the margin of error for this project is very low. In fact, this project is challenging because of my need to simplify the circuits as much as possible
 to avoid points of conflict.
 
-Condensation
+The required criteria for this project are as follows:
+
+| Criteria:      |
+| ----------- |
+| Some type of liquid dispensing action |
+| Buzzer tone output  |
+| FastLed strip compatibility |
+| Must be able to fit inside a backpack |
+| Not prone to leakage  |
+
+I have attached the schematic below: I believe that the schematic is qute self explanatory compared to my previous ones from other projects. Similar to my bluetooth car, this project
+will require an external power source since I cannot just connect the arduino to the laptop while talking around with it as my Halloween costume. There are 2 battery packs, one responsible for the
+pump with a flyback diode to prevent anything upexpected from happening, and another for the Arduino power. I am using the isolated button to activate the speaker to play a premade tone
+that sounds like a police siren. If you want to see the code regarding this section and the rest of the circuit it can be found here.
+
+There were several problems and investigations I ran while doing this project that really slowed me down. First was that I originally built this circuit with a relay which I found to be unnecessary.
+Without the pump, the flyback diode by itself seems good enough to keep any noise flyback to be muted. This increased the simplicity of my circuit as well. The first major problem I had was with my LED strip. The first iteration of
+this project does not have and LED strip since I was unable to implement it in time for the first event I was going to. I found that the circuit would work for a bit but after a few minutes of the arduino turning on, the light activity would
+become very unpredictable, sometimes flashing out of phase or in the wrong interval of timeframe. It would also sometimes just stop working or turn white at a very high brightness. I did not want this to occur
+in a party environment and flashbang the entire room so I decided to play it safe and not incorporate the light. I had a real struggle compressing the entire build in the backpack as there were initially many loose parts/ breadboards that I ended
+up adhering to my beer container with hotglue. I had to place each component into the backpack very carefully as making any loose connections would force me to take everything back out
+to diagnose the problem. This happened several times while trying to load the backpack which made me quite nervous for the party. I also realized I had to be able to trigger the siren and pump from outside the backpack. 
+To do this, I used alligator clips with a button connecting them to trigger circuit connections for the pump and siren.
+This turned out to be successful and still garner a lot of attention. I have attached videos and images of
+the build below. There was no leakage which was really good.
+
+Before the second event, I wanted to incorporate the lights especially since there was a costume contest this time around. I realized that the current demand on the 6V AA battery source was probably
+too much as the LED strip uses 150 diodes in series. Just some basic circuit knowledge tells me that diodes have a voltage drop and while it may not be as high as the 0.7V for a normal diode or 0.3 for a schottky, there
+must still be a drop/load which is likely causing problems in my strip and Arduino. I decided to change my led segment from 150 leds to 50 leds which still did not fix the problem. At the start of this second iteration I also replaced all the
+batteries used with what I thought to be better batteries. I initially used [dollar store batteries](https://www.dollartree.com/ecircuit-8pk-aa-shd/363460?traffic_source=google&traffic_medium=cpc&utm_content=gpla&gad_source=1&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzroKCOagAig0VRgbrctMrRg17_oqPNvV1ybzMwLjDrYmj4LUZYmXx0aAq32EALw_wcB)
+and switched to [kodak batteries.](https://www.dollartree.com/ecircuit-8pk-aa-shd/363460?traffic_source=google&traffic_medium=cpc&utm_content=gpla&gad_source=1&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzroKCOagAig0VRgbrctMrRg17_oqPNvV1ybzMwLjDrYmj4LUZYmXx0aAq32EALw_wcB)
+This was a poor decision. I realized after a while that my pump was really quiet and thought that maybe one of the kodak batteries was dead. I started shuffling only kodak batteries around and found no success
+in fixing the problem. After a while I decided to compare this sound with the original pump sound from the first iteration and realized that the dollar store batterys must be suppling much more power (meaning current too).
+So after 2 hours, I learned that kodak is a terrible battery brand and that dollar store is the way to go. With this increased current now supplying both voltage sources in the schematic, everything was working as intended including the LED strip.
