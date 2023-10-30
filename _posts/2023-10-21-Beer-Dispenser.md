@@ -5,7 +5,6 @@ layout: post
 categories: media
 ---
 
-WORK IN PROGRESS:
 I got invited to a Halloween party and realized that I have to show up with a costume. It turns out Halloween costumes are the biggest
 scams. So I decided to make my own since it was pretty short notice. Queue the most intense 6 hours of my life, where I put this costume together
 and barely made it to the party on time.
