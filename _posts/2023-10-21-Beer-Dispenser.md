@@ -14,6 +14,8 @@ Last year, my costume was "Beer Pong" this costume uses a cardboard slab as its 
 are oriented in beer pong. The idea is that when someone wants to play beer pong, I would just lay on the ground and pour some beer in the cups. I think people really enjoyed this
 concept because I ended up winning a costume contest that year! Anyways I want to create a costume of similar caliber of coolness so here it goes.
 
+{% include embed.html url="https://www.youtube.com/embed/DbM7yC2fTYg" %}
+
 
 The inital idea planning was pretty straightforward, with the my current skill set, I wanted to do something with moving parts that is semi interactive but not insanely fragile.
 I ended up deciding between being a human sized simon game and a beer dispenser. If you are unfamiliar with Simon, it is basically a memory game. The device will sequentially turn
@@ -56,6 +58,12 @@ the build below. There was no leakage in the first dispenser iteration which was
 
 ![Circuit Schematic](https://github.com/vincentkwok21/vincentkwok21.github.io/assets/137122312/713db6d3-5f2d-4480-9b1f-1003973929a2)
 
+<sub>Circuit Schematic</sub>
+
+{% include embed.html url="https://www.youtube.com/embed/yZJo5mE5fsI" %}
+
+
+
 Before the second event, I wanted to incorporate the lights especially since there was a costume contest this time around. I realized that the current demand on the 6V AA battery source was probably
 too much as the LED strip uses 150 diodes in series. Just some basic circuit knowledge tells me that diodes have a voltage drop and while it may not be as high as the 0.7V for a normal diode or 0.3 for a schottky, there
 must still be a drop/load which is likely causing problems in my strip and Arduino. I decided to change my led segment from 150 leds to 50 leds which still did not fix the problem. At the start of this second iteration I also replaced all the
@@ -77,3 +85,5 @@ There are a few design inefficiencies in this project. The biggest problem is th
 
 
 Project Github with code:
+
+{% include embed.html url="https://www.youtube.com/embed/DbM7yC2fTYg" %}
